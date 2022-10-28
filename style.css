@@ -223,7 +223,7 @@ body{
 }
 .home{
     background-color: #48D1CC;
-    height: 600px;
+    height: 700px;
 }
 
 .nav a{
@@ -305,9 +305,9 @@ project
 */
 .second{
     background-color: #66CDAA;
-    height: 2700px;
+    height: 2500px;
     padding-bottom: 180px;
-    clip-path: polygon(0 9%, 100% 0, 100% 100%, 0 91%);
+    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0 95%);
 }
 
 .projects{
