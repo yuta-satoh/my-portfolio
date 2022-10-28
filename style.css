@@ -234,7 +234,7 @@ body{
     padding-left: 15px;
     font-size: 15px;
 }
-.nav-link{border-bottom: solid 2px #00FA9A;display: inline-block;}
+.nav-link{}
 
 .profile{
     display: flex;
