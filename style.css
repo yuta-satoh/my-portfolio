@@ -7,16 +7,15 @@ body{
     font-family: 'Noto Sans JP', sans-serif;
 
 }
-.home{background-color: #48D1CC;height: 600px;}
+.home{background-color: #48D1CC;height: 600px;z-index: 200;}
 
 .nav-header{
     width: 100%;
-    position: fixed; 
-    background-color: #48D1CC;
+    position: fixed;
+    background-color: rgba(64,224,208,0.7);
     z-index: 500;
     padding-top:5px;
     padding-bottom:5px
-
 }
 
 .nav-header a{
@@ -27,7 +26,7 @@ body{
     padding-left: 10px;
     font-size: 15px;
 }
-.nav-link{border-bottom: solid 2px #00FA9A;display: inline-block;}
+.nav-link{/* border-bottom: solid 2px #00FA9A; */display: inline-block;}
 
 .profile{
     display: flex;
