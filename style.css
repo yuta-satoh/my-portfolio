@@ -3,6 +3,9 @@
 body{
     margin: 0;
     width: auto;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+
 }
 .home{background-color: #48D1CC;height: 600px;}
 
